@@ -13,3 +13,6 @@ This is a clone of the game Chip's Challenge, developed for the course SWEN 225.
 
 # How to start
 Start the game by running nz.ac.vuw.ecs.swen225.a3.application.Main from Eclipse
+
+# Screenshot
+<img src="https://user-images.githubusercontent.com/26127333/66676870-f0d8dc80-ecc4-11e9-96e4-8ce3eccd0af3.PNG" width="600"/>
