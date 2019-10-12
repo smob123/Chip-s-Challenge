@@ -1,4 +1,4 @@
-# SWEN 225 Assignment 3
+# Chip's Challenge
 
 # What is it?
 
