@@ -148,7 +148,7 @@ public class Maze {
    * move enemies around the maze.
    */
   public void moveEnemies() {
-    if (gameOver) {
+    if (gameOver || paused) {
       return;
     }
 
